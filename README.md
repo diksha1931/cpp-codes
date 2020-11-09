@@ -1,2 +1,2 @@
 # cpp-codes
-random cpp codes
+My hackerrank solutions
